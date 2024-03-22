@@ -1,0 +1,494 @@
+2024-02-28 02:23:10.6130 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-28 02:23:10.6700 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-28 02:23:10.7591 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-02-28 02:23:10.7923 Info Configuration initialized.
+2024-02-28 16:24:26.1809 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-28 16:24:26.2163 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-28 16:24:26.2295 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-02-28 16:24:26.2435 Info Configuration initialized.
+2024-02-28 17:26:09.6507 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-28 17:26:09.6836 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-28 17:26:09.6942 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-02-28 17:26:09.6942 Info Configuration initialized.
+2024-02-28 17:26:51.0151 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-28 17:26:51.0671 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-28 17:26:51.0835 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-02-28 17:26:51.1041 Info Configuration initialized.
+2024-03-01 02:24:23.9144 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 02:24:24.7790 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 02:24:24.7906 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 02:24:24.8031 Info Configuration initialized.
+2024-03-01 02:24:34.4011 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 02:24:34.5380 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 02:24:34.5572 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 02:24:34.5797 Info Configuration initialized.
+2024-03-01 02:29:54.1488 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 02:29:54.1804 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 02:29:54.1804 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 02:29:54.1988 Info Configuration initialized.
+2024-03-01 02:31:04.4540 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 02:31:04.4813 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 02:31:04.4906 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 02:31:04.4906 Info Configuration initialized.
+2024-03-01 02:34:25.5543 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 02:34:25.5919 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 02:34:25.6034 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 02:34:25.6223 Info Configuration initialized.
+2024-03-01 02:40:38.5796 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 02:40:38.6116 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 02:40:38.6211 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 02:40:38.6344 Info Configuration initialized.
+2024-03-01 02:42:22.7694 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 02:42:22.7960 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 02:42:22.8037 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 02:42:22.8037 Info Configuration initialized.
+2024-03-01 02:47:11.9532 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 02:47:11.9796 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 02:47:11.9796 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 02:47:11.9988 Info Configuration initialized.
+2024-03-01 03:07:32.5150 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 03:07:32.5535 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 03:07:32.5677 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 03:07:32.5817 Info Configuration initialized.
+2024-03-01 06:02:20.8948 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 06:02:20.9254 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 06:02:20.9355 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 06:02:20.9447 Info Configuration initialized.
+2024-03-01 06:06:47.8718 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 06:06:47.9070 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 06:06:47.9164 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 06:06:47.9277 Info Configuration initialized.
+2024-03-01 06:07:48.7982 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 06:07:48.8395 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 06:07:48.8527 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 06:07:48.8671 Info Configuration initialized.
+2024-03-01 06:12:35.8098 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 06:12:35.8559 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 06:12:35.8739 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 06:12:35.9032 Info Configuration initialized.
+2024-03-01 06:13:52.8091 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 06:13:52.8344 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 06:13:52.8344 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 06:13:52.8527 Info Configuration initialized.
+2024-03-01 06:15:16.8793 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 06:15:16.9101 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 06:15:16.9232 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 06:15:16.9356 Info Configuration initialized.
+2024-03-01 18:08:25.3614 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-01 18:08:25.4004 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-01 18:08:25.4115 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-01 18:08:25.4115 Info Configuration initialized.
+2024-03-03 17:37:48.9049 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-03 17:37:48.9756 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-03 17:37:49.0102 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-03 17:37:49.0273 Info Configuration initialized.
+2024-03-03 18:09:28.4034 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-03 18:09:28.4374 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-03 18:09:28.4483 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-03 18:09:28.4581 Info Configuration initialized.
+2024-03-03 22:21:02.1855 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-03 22:21:02.2550 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-03 22:21:02.2918 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-03 22:21:02.3326 Info Configuration initialized.
+2024-03-04 02:07:49.5493 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-04 02:07:49.5864 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 02:07:49.5864 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-04 02:07:49.6084 Info Configuration initialized.
+2024-03-04 03:39:08.6880 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-04 03:39:08.7218 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 03:39:08.7322 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-04 03:39:08.7427 Info Configuration initialized.
+2024-03-05 05:38:07.0183 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-05 05:38:07.0584 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-05 05:38:07.0732 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-05 05:38:07.0933 Info Configuration initialized.
+2024-03-05 06:19:00.6749 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-05 06:19:00.7054 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-05 06:19:00.7134 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-05 06:19:00.7230 Info Configuration initialized.
+2024-03-05 06:38:45.3745 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-05 06:38:45.4115 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-05 06:38:45.4115 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-05 06:38:45.4329 Info Configuration initialized.
+2024-03-05 07:40:29.8377 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-05 07:40:29.9045 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-05 07:40:29.9213 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-05 07:40:29.9345 Info Configuration initialized.
+2024-03-05 19:37:44.2045 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-05 19:37:44.2404 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-05 19:37:44.2404 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-05 19:37:44.2603 Info Configuration initialized.
+2024-03-07 07:37:28.5796 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-07 07:37:28.7555 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-07 07:37:28.7780 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-07 07:37:28.7971 Info Configuration initialized.
+2024-03-07 07:39:51.8678 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-07 07:39:51.9160 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-07 07:39:51.9374 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-07 07:39:51.9566 Info Configuration initialized.
+2024-03-07 07:41:14.5317 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-07 07:41:14.6199 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-07 07:41:14.6281 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-07 07:41:14.6281 Info Configuration initialized.
+2024-03-07 08:08:26.5157 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-07 08:08:26.5495 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-07 08:08:26.5495 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-07 08:08:26.5726 Info Configuration initialized.
+2024-03-07 08:12:12.6849 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-07 08:12:12.7181 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-07 08:12:12.7272 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-07 08:12:12.7272 Info Configuration initialized.
+2024-03-07 22:25:06.0116 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-07 22:25:06.0520 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-07 22:25:06.0619 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-07 22:25:06.0726 Info Configuration initialized.
+2024-03-08 07:15:31.3820 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-08 07:15:31.5455 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-08 07:15:31.5610 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-08 07:15:31.5754 Info Configuration initialized.
+2024-03-08 07:18:15.5935 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-08 07:18:15.6531 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-08 07:18:15.6741 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-08 07:18:15.6948 Info Configuration initialized.
+2024-03-08 07:22:05.2723 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-08 07:22:05.3086 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-08 07:22:05.3271 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-08 07:22:05.3382 Info Configuration initialized.
+2024-03-09 21:31:57.4511 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-09 21:31:57.4824 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-09 21:31:57.4911 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-09 21:31:57.4911 Info Configuration initialized.
+2024-03-11 03:42:12.4195 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-11 03:42:12.4514 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-11 03:42:12.4514 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-11 03:42:12.4729 Info Configuration initialized.
+2024-03-12 22:24:31.4836 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-12 22:24:31.5178 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-12 22:24:31.5298 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-12 22:24:31.5434 Info Configuration initialized.
+2024-03-13 01:00:29.6041 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 01:00:29.6430 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 01:00:29.6550 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 01:00:29.6689 Info Configuration initialized.
+2024-03-13 01:07:57.8130 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 01:07:57.8487 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 01:07:57.8487 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 01:07:57.8722 Info Configuration initialized.
+2024-03-13 01:08:40.1279 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 01:08:40.1563 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 01:08:40.1692 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 01:08:40.1888 Info Configuration initialized.
+2024-03-13 01:08:56.7766 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 01:08:56.8057 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 01:08:56.8057 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 01:08:56.8269 Info Configuration initialized.
+2024-03-13 01:09:24.6796 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 01:09:24.7061 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 01:09:24.7180 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 01:09:24.7304 Info Configuration initialized.
+2024-03-13 01:15:58.2514 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 01:15:58.2833 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 01:15:58.2938 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 01:15:58.2938 Info Configuration initialized.
+2024-03-13 01:18:08.8050 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 01:18:08.8399 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 01:18:08.8522 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 01:18:08.8522 Info Configuration initialized.
+2024-03-13 01:32:48.1967 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 01:32:48.2406 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 01:32:48.2658 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 01:32:48.2971 Info Configuration initialized.
+2024-03-13 01:50:02.6786 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 01:50:02.7211 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 01:50:02.7431 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 01:50:02.7738 Info Configuration initialized.
+2024-03-13 01:52:19.9216 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 01:52:19.9742 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 01:52:20.0023 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 01:52:20.0263 Info Configuration initialized.
+2024-03-13 01:56:20.8840 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 01:56:20.9196 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 01:56:20.9334 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 01:56:20.9471 Info Configuration initialized.
+2024-03-13 02:10:13.8077 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 02:10:13.8495 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 02:10:13.8495 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 02:10:13.8761 Info Configuration initialized.
+2024-03-13 02:11:40.7192 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 02:11:40.7463 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 02:11:40.7549 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 02:11:40.7549 Info Configuration initialized.
+2024-03-13 02:13:18.5867 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 02:13:18.9057 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 02:13:18.9148 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 02:13:18.9148 Info Configuration initialized.
+2024-03-13 02:15:49.8514 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 02:15:49.8948 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 02:15:49.9136 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 02:15:49.9315 Info Configuration initialized.
+2024-03-13 02:34:41.4689 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-13 02:34:41.5041 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-13 02:34:41.5141 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-13 02:34:41.5243 Info Configuration initialized.
+2024-03-15 03:18:20.5829 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-15 03:18:20.6015 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-15 03:18:20.6095 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-15 03:18:20.6095 Info Configuration initialized.
+2024-03-15 03:18:21.9847 Info AppDomain Shutting down. LogFactory closing...
+2024-03-15 03:18:21.9847 Info LogFactory has been closed.
+2024-03-15 03:19:23.0669 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-15 03:19:23.0804 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-15 03:19:23.0804 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-15 03:19:23.0993 Info Configuration initialized.
+2024-03-15 03:19:24.4493 Info AppDomain Shutting down. LogFactory closing...
+2024-03-15 03:19:24.4493 Info LogFactory has been closed.
+2024-03-15 03:19:53.9215 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-15 03:19:53.9396 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-15 03:19:53.9480 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-15 03:19:53.9480 Info Configuration initialized.
+2024-03-15 03:19:54.7899 Info AppDomain Shutting down. LogFactory closing...
+2024-03-15 03:19:54.7979 Info LogFactory has been closed.
+2024-03-15 03:19:56.8791 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-15 03:19:56.8897 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-15 03:19:56.8897 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-15 03:19:56.9046 Info Configuration initialized.
+2024-03-15 03:19:57.8754 Info AppDomain Shutting down. LogFactory closing...
+2024-03-15 03:19:57.8754 Info LogFactory has been closed.
+2024-03-15 03:20:13.2400 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-15 03:20:13.2516 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-15 03:20:13.2516 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-15 03:20:13.2677 Info Configuration initialized.
+2024-03-15 03:20:14.3698 Info AppDomain Shutting down. LogFactory closing...
+2024-03-15 03:20:14.3698 Info LogFactory has been closed.
+2024-03-15 03:20:27.3095 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-15 03:20:27.3208 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-15 03:20:27.3272 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-15 03:20:27.3272 Info Configuration initialized.
+2024-03-15 03:20:29.0292 Info AppDomain Shutting down. LogFactory closing...
+2024-03-15 03:20:29.0292 Info LogFactory has been closed.
+2024-03-15 03:30:48.2443 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-15 03:30:48.2649 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-15 03:30:48.2649 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-15 03:30:48.2839 Info Configuration initialized.
+2024-03-15 03:30:49.7600 Info AppDomain Shutting down. LogFactory closing...
+2024-03-15 03:30:49.7698 Info LogFactory has been closed.
+2024-03-15 03:31:25.8217 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-15 03:31:25.8335 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-15 03:31:25.8427 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-15 03:31:25.8427 Info Configuration initialized.
+2024-03-15 03:31:26.9097 Info AppDomain Shutting down. LogFactory closing...
+2024-03-15 03:31:26.9166 Info LogFactory has been closed.
+2024-03-15 04:22:44.9570 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-15 04:22:44.9960 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-15 04:22:44.9960 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-15 04:22:45.0218 Info Configuration initialized.
+2024-03-16 09:42:11.0654 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 09:42:11.1139 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 09:42:11.1412 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 09:42:11.1923 Info Configuration initialized.
+2024-03-16 18:14:10.4600 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 18:14:10.4945 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 18:14:10.5053 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 18:14:10.5053 Info Configuration initialized.
+2024-03-16 18:24:10.4760 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 18:24:10.5480 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 18:24:10.5782 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 18:24:10.6002 Info Configuration initialized.
+2024-03-16 18:28:51.1563 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 18:28:51.1872 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 18:28:51.1953 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 18:28:51.2113 Info Configuration initialized.
+2024-03-16 18:32:55.8164 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 18:32:55.8454 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 18:32:55.8563 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 18:32:55.8734 Info Configuration initialized.
+2024-03-16 23:07:18.5435 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 23:07:18.5747 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 23:07:18.5857 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 23:07:18.5982 Info Configuration initialized.
+2024-03-16 23:37:05.7193 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 23:37:05.7387 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 23:37:05.7387 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 23:37:05.7574 Info Configuration initialized.
+2024-03-16 23:37:07.3408 Info AppDomain Shutting down. LogFactory closing...
+2024-03-16 23:37:07.3493 Info LogFactory has been closed.
+2024-03-16 23:37:30.9708 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 23:37:30.9829 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 23:37:30.9922 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 23:37:30.9922 Info Configuration initialized.
+2024-03-16 23:37:33.3182 Info AppDomain Shutting down. LogFactory closing...
+2024-03-16 23:37:33.3182 Info LogFactory has been closed.
+2024-03-16 23:38:15.7499 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 23:38:15.7697 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 23:38:15.7697 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 23:38:15.7889 Info Configuration initialized.
+2024-03-16 23:38:18.0237 Info AppDomain Shutting down. LogFactory closing...
+2024-03-16 23:38:18.0237 Info LogFactory has been closed.
+2024-03-16 23:39:20.2959 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 23:39:20.3105 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 23:39:20.3105 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 23:39:20.3263 Info Configuration initialized.
+2024-03-16 23:39:21.1356 Info AppDomain Shutting down. LogFactory closing...
+2024-03-16 23:39:21.1356 Info LogFactory has been closed.
+2024-03-16 23:39:23.7603 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 23:39:23.7716 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 23:39:23.7716 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 23:39:23.7871 Info Configuration initialized.
+2024-03-16 23:39:24.9119 Info AppDomain Shutting down. LogFactory closing...
+2024-03-16 23:39:24.9186 Info LogFactory has been closed.
+2024-03-16 23:39:42.6144 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 23:39:42.6144 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 23:39:42.6313 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 23:39:42.6313 Info Configuration initialized.
+2024-03-16 23:39:43.7553 Info AppDomain Shutting down. LogFactory closing...
+2024-03-16 23:39:43.7622 Info LogFactory has been closed.
+2024-03-16 23:39:59.2295 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-16 23:39:59.2414 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-16 23:39:59.2414 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-16 23:39:59.2573 Info Configuration initialized.
+2024-03-16 23:40:01.6668 Info AppDomain Shutting down. LogFactory closing...
+2024-03-16 23:40:01.6750 Info LogFactory has been closed.
+2024-03-17 00:33:34.9613 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 00:33:34.9954 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 00:33:35.0084 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 00:33:35.0215 Info Configuration initialized.
+2024-03-17 00:41:38.6156 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 00:41:38.6556 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 00:41:38.6808 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 00:41:38.6959 Info Configuration initialized.
+2024-03-17 01:09:15.2794 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 01:09:15.3181 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 01:09:15.3181 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 01:09:15.3416 Info Configuration initialized.
+2024-03-17 01:09:43.0153 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 01:09:43.0639 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 01:09:43.0857 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 01:09:43.1069 Info Configuration initialized.
+2024-03-17 01:10:29.8381 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 01:10:29.8669 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 01:10:29.8669 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 01:10:29.8669 Info Configuration initialized.
+2024-03-17 01:16:49.1648 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 01:16:49.1961 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 01:16:49.1961 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 01:16:49.2148 Info Configuration initialized.
+2024-03-17 01:20:43.2146 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 01:20:43.2508 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 01:20:43.2617 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 01:20:43.2730 Info Configuration initialized.
+2024-03-17 01:27:03.2264 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 01:27:03.2661 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 01:27:03.2766 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 01:27:03.2891 Info Configuration initialized.
+2024-03-17 01:28:06.2193 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 01:28:06.2787 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 01:28:06.3155 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 01:28:06.3628 Info Configuration initialized.
+2024-03-17 05:29:43.1389 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 05:29:43.1591 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 05:29:43.1591 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 05:29:43.1806 Info Configuration initialized.
+2024-03-17 05:29:44.0691 Info AppDomain Shutting down. LogFactory closing...
+2024-03-17 05:29:44.0887 Info LogFactory has been closed.
+2024-03-17 05:29:46.3711 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 05:29:46.3826 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 05:29:46.3826 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 05:29:46.3978 Info Configuration initialized.
+2024-03-17 05:29:47.6421 Info AppDomain Shutting down. LogFactory closing...
+2024-03-17 05:29:47.6492 Info LogFactory has been closed.
+2024-03-17 05:29:58.2927 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 05:29:58.3039 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 05:29:58.3039 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 05:29:58.3188 Info Configuration initialized.
+2024-03-17 05:29:59.5109 Info AppDomain Shutting down. LogFactory closing...
+2024-03-17 05:29:59.5185 Info LogFactory has been closed.
+2024-03-17 05:30:23.3193 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 05:30:23.3315 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 05:30:23.3315 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 05:30:23.3468 Info Configuration initialized.
+2024-03-17 05:30:25.8256 Info AppDomain Shutting down. LogFactory closing...
+2024-03-17 05:30:25.8330 Info LogFactory has been closed.
+2024-03-17 05:50:59.8329 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 05:50:59.8676 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 05:50:59.8792 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 05:50:59.8792 Info Configuration initialized.
+2024-03-17 07:25:08.2888 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 07:25:08.3250 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 07:25:08.3250 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 07:25:08.3456 Info Configuration initialized.
+2024-03-17 07:33:17.4108 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 07:33:17.4270 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 07:33:17.4358 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 07:33:17.4358 Info Configuration initialized.
+2024-03-17 07:33:18.4071 Info AppDomain Shutting down. LogFactory closing...
+2024-03-17 07:33:18.4167 Info LogFactory has been closed.
+2024-03-17 07:33:21.7408 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 07:33:21.7408 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 07:33:21.7579 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 07:33:21.7579 Info Configuration initialized.
+2024-03-17 07:33:23.0400 Info AppDomain Shutting down. LogFactory closing...
+2024-03-17 07:33:23.0400 Info LogFactory has been closed.
+2024-03-17 07:33:59.4860 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 07:33:59.4980 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 07:33:59.5050 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 07:33:59.5050 Info Configuration initialized.
+2024-03-17 07:34:00.7202 Info AppDomain Shutting down. LogFactory closing...
+2024-03-17 07:34:00.7273 Info LogFactory has been closed.
+2024-03-17 07:34:08.8935 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 07:34:08.8935 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 07:34:08.9134 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 07:34:08.9134 Info Configuration initialized.
+2024-03-17 07:34:11.3440 Info AppDomain Shutting down. LogFactory closing...
+2024-03-17 07:34:11.3510 Info LogFactory has been closed.
+2024-03-17 08:11:09.8156 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 08:11:09.8648 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 08:11:09.8895 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 08:11:09.9161 Info Configuration initialized.
+2024-03-17 08:15:57.6702 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 08:15:57.7120 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 08:15:57.7233 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 08:15:57.7233 Info Configuration initialized.
+2024-03-17 08:17:42.1497 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 08:17:42.1808 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 08:17:42.1808 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 08:17:42.2045 Info Configuration initialized.
+2024-03-17 08:18:07.3443 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 08:18:07.4017 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 08:18:07.4202 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 08:18:07.4404 Info Configuration initialized.
+2024-03-17 08:18:44.1439 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 08:18:44.1859 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 08:18:44.1859 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 08:18:44.2092 Info Configuration initialized.
+2024-03-17 08:22:05.7727 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 08:22:05.8082 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 08:22:05.8261 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 08:22:05.8422 Info Configuration initialized.
+2024-03-17 08:33:55.4520 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 08:33:55.4911 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 08:33:55.5045 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 08:33:55.5241 Info Configuration initialized.
+2024-03-17 08:42:36.4958 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 08:42:36.5291 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 08:42:36.5393 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 08:42:36.5509 Info Configuration initialized.
+2024-03-17 08:50:51.1935 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 08:50:51.2315 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 08:50:51.2442 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 08:50:51.2637 Info Configuration initialized.
+2024-03-17 08:57:45.1131 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 08:57:45.1492 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 08:57:45.1592 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 08:57:45.1592 Info Configuration initialized.
+2024-03-17 09:03:34.0369 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 09:03:34.0715 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 09:03:34.0824 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 09:03:34.0824 Info Configuration initialized.
+2024-03-17 09:14:29.6249 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 09:14:29.6717 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 09:14:29.6896 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 09:14:29.7139 Info Configuration initialized.
+2024-03-17 09:26:09.8858 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-03-17 09:26:09.9286 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-17 09:26:09.9431 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ahmet\OneDrive\Desktop\WebApiProjects\bsStoreApp\WebApi\nlog.config
+2024-03-17 09:26:09.9431 Info Configuration initialized.
